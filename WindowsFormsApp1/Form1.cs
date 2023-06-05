@@ -33,7 +33,9 @@ namespace WindowsFormsApp1
             if (randomLineNumber == prevRand)
             {
                 label4.Text = "the prev rand is " + prevRand + " and the rand line is " + randomLineNumber;
-                randomLineNumber++;
+                // if last line 
+                if(prevRand+1 < lines.Length)
+                    randomLineNumber++;
             }
             prevRand = randomLineNumber;
             var line = lines[randomLineNumber];
