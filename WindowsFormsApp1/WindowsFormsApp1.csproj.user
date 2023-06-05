@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory />
-    <InstallUrlHistory />
+    <PublishUrlHistory>C:\Users\Amrat\Desktop\test 2\published\</PublishUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/Ofs3t/test-noti/master/published/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
